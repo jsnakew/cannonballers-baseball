@@ -1,5 +1,5 @@
 ---
-title: "Welcom post"
+title: "Welcome post"
 description: "Initial post for the EV Cannon Ballers' blog"
 pubDate: "Jun 02 2025"
 heroImage: "/evcannonballers.png"
